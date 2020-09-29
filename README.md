@@ -5,10 +5,14 @@ collected here as there are too much of them as well as there are other reposito
 collect information about those.
 
 ## Contents
-- [Cyber Security Exercises Database](#cyber-security-exercises-database)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-  - [Cyber Security Exercises in 2019](#cyber-security-exercises-in-2019)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Introduction](#introduction)
+- [Cyber Security Exercises in 2019](#cyber-security-exercises-in-2019)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
 
@@ -16,7 +20,7 @@ This repository poses as a Database of known Cyber Security Exercises.
 
 ## Cyber Security Exercises in 2019
 
-- [Gridex V](Exercises/Gridex-V/info.md)
+- [Gridex V](Exercises/GridEx-V/info.md)
 - [SteadFast Cobalt](Exercises/SteadFast-Cobalt/info.md)
 - [Cyber Coalition](Exercises/Cyber-Coalition/info.md)
 - [Crossed Swords](Exercises/Crossed-Swords/info.md)

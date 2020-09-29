@@ -1,9 +1,16 @@
 # Cyber Star
 
 #### Table of Contents
-[Decription] (#description)
-[Exercise features] (#exercise-features)
-[References] (#references)
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Description](#description)
+- [Exercise features](#exercise-features)
+- [References](#references)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Description
 
