@@ -6,9 +6,11 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Description](#description)
-- [Exercise features](#exercise-features)
-- [References](#references)
+- [GridEx V](#gridex-v)
+      - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Exercise features](#exercise-features)
+  - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -17,4 +19,44 @@ The most notable and well-documented exercise held in 2019 is the GridEx V exerc
 
 ## Exercise features
 
+- Organiser:
+  - The North American Electric Reliability Corporation (NERC)
+- Objectives and goals:
+  - Exercise cyber security and/or physical security along with operational incident response plans 
+  - Expand local and regional response 
+  - Engage critical interdependencies 
+  - Increase supply chain participation
+  - Improve internal and/or external communication and coordination
+  - Identify lessons learned
+  - Engage senior leadership
+- Sector: 
+  - Electricity
+  - Gas
+  - Water
+  - Other
+- Size:
+  - Very large (more than 1000 participants)
+- Type:
+  - Two tabletops
+  - Simulation (distributed play)
+- Level:
+  - Tactical
+  - Operational
+  - Strategic
+- Location:
+  - Distributed on premises
+- Region:
+  - International
+- Duration:
+  - 13 to 14 November 2019
+- Frequency:
+  - Every 2 years
+- Maturity level:
+  - High
+- Software used:
+  - SimulationDeck 
+
 ## References
+
+1. Gridex V After Action Report
+2. SimulationDeck

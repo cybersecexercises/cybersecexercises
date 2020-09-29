@@ -18,4 +18,33 @@ In November 2019, Taiwan hosted a five-day international cybersecurity exercise 
 
 ## Exercise features
 
+- Organiser:
+  - Cabinet-level Department of Cyber Security and American Institute in Taiwan
+- Objectives and goals: 
+  - Exercise cyber security and/or physical security along with operational incident response plans,
+  - Improve internal and/or external communication and coordination,
+  - Identify lessons learned
+- Sector:
+  - Private,
+  - Public
+- Size:
+  - Medium
+- Type:
+  - Red vs. blue team, 
+  - Simulation
+- Level:
+  - Technical,
+  - Strategic, 
+  - Operational
+- Location:
+  - Taipei, Taiwan 
+- Region:
+  - International
+- Duration:
+  - 4 to 8 November, 2019
+- Frequency:
+  - Conducted only once
+- Maturity level:
+  - High
+
 ## References

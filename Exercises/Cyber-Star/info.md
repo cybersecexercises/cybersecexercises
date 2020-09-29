@@ -18,4 +18,16 @@ Exercise Cyber Star is a Singaporean nation-wide cybersecurity exercise which in
 
 ## Exercise features
 
+- Organiser
+- Objectives and goals
+- Sector
+- Size
+- Type
+- Level 
+- Location 
+- Region
+- Duration
+- Frequency
+- Maturity level
+
 ## References
