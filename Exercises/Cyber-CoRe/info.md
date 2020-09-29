@@ -41,5 +41,11 @@ Cyber Cooperative Resilience, or Cyber CoRe, is a cybersecurity exercise organiz
   - Annual
 - Maturity level:
   - Medium
+- Software used:
+  - CybExer Cyber Range Platform 
+  - CybExer’s Integrated Scoring and Awareness (ISA) solution 
 
 ## References
+1. [Cyber Core Article](https://cybercore.training/news/cyber-core-tallinn-2019-november)
+2. [E Estonia Article](https://e-estonia.com/cyber-exercise-for-private-sector-tallinn/)
+3. [CybExer Software](https://cybexer.com/#products)

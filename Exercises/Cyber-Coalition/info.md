@@ -47,5 +47,11 @@ Cyber Coalition exercise was a five-day exercise conducted in Tartu, Estonia, fr
   - Annual
 - Maturity level:
   - High
+- Software used: 
+  - Cyber Range 
 
 ## References
+
+1. [SHAPE Article 1](https://shape.nato.int/news-archive/2019/exercise-cyber-coalition-2019-concludes-in-estonia)
+2. [SHAPE Article 2](https://shape.nato.int/news-archive/2019/exercise-cyber-coalition-2019-planning-conference-concludes-in-montenegro)
+3. [Article 3](https://hrvatski-vojnik.hr/cyber-coalition-2019-strengthening-cyber-defence/)

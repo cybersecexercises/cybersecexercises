@@ -47,3 +47,6 @@ Quantum Dawn is a series of cybersecurity exercises that enable vital public and
   - High
 
 ## References
+1. [SIFMA Article](https://www.sifma.org/resources/general/cybersecurity-exercise-quantum-dawn-v/)
+2. [After Action Report](https://www.sifma.org/wp-content/uploads/2020/02/QDV-After-Action-Report-Final-Version-2.26.20.pdf)
+3. [CNBC Article](https://www.cnbc.com/2019/11/07/quantum-dawn-v-sifma-cyber-doomsday-exercise-adds-global-scope.html)

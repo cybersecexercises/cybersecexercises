@@ -46,5 +46,11 @@ Crossed Swords is an annual red teaming exercise organized jointly by the NATO C
   - Annual
 - Maturity level:
   - High
+- Software used:
+  - KX LE4 Titan simulator,
+  - Threod simulator 
 
 ## References
+1. [CCDCOE](https://ccdcoe.org/exercises/crossed-swords/)
+2. [THREOD](https://threod.com/news/crossed-swords-2019/)
+3. [Article](https://www.fifthdomain.com/newsletters/daily-brief/2020/01/27/more-countries-participate-in-natos-cyber-exercise/)

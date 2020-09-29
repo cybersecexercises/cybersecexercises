@@ -48,3 +48,6 @@ In November 2019, Taiwan hosted a five-day international cybersecurity exercise 
   - High
 
 ## References
+1. [DefenseWorld Article](https://www.defenseworld.net/news/25527/Taiwan_to_Host_15_Nation_Cyber_security_Exercise_in_November#.XsPoQi-B1QJ)
+2. [FocusTaiwan Article](https://focustaiwan.tw/politics/201911040015)
+3. [Taiwan Today Article](https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=165498)

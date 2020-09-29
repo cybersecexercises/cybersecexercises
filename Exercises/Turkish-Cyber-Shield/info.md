@@ -47,3 +47,6 @@ The Ministry of Transport and Infrastructure, and Information and Communications
   - Medium
 
 ## References
+1. [ITU Article](https://www.itu.int/en/ITU-D/Regional-Presence/Europe/Pages/Events/2019/CyberShield/Cyber-Shield-2019.aspx)
+2. [AA Article](https://www.aa.com.tr/en/energy/energy-security/turkey-to-host-international-cybersecurity-exercise/27566)
+3. [DailySabah Article](https://www.dailysabah.com/turkey/2019/12/19/international-cybersecurity-exercise-begins-in-ankara)

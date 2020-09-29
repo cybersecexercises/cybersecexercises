@@ -43,5 +43,10 @@ Cyber Yankee was a cybersecurity exercise entirely hosted on a ShadowNet enterpr
   - Annual
 - Maturity level
   - High
+- Software used: 
+  - ShadowNet 
 
 ## References
+1. [National Guard Article](https://www.nationalguard.mil/News/Article/1939521/virginia-cyber-unit-hosts-security-exercise-using-shadownet/)
+2. [Agenda](https://www.hassan.senate.gov/imo/media/doc/CY%20Overview%20and%20DV%20Day%20Agenda.pdf)
+3. [Army Article](https://www.army.mil/article/226003/virginia_guard_hosts_cyber_yankee_19_using_shadownet_enterprise_solution)

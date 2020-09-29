@@ -47,3 +47,6 @@ NSA Cyber Exercise (NSX) is a three-day exercise that challenges cadets and mids
   - Medium
 
 ## References
+1. [NSA NSX Official Page](https://www.nsa.gov/What-We-Do/Cybersecurity/NCX/)
+2. [NSX Article](https://ung.edu/news/articles/2019/05/cadets-take-part-in-nsa-cyber-exercise.php)
+3. [NSX Article 2](https://xorl.wordpress.com/2020/03/28/the-2018-nsa-cyber-exercise-ncx-module-2-tabletop-board-game/)

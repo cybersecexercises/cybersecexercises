@@ -47,5 +47,10 @@ Organized by the Supreme Allied Command Europe and NATO CIS Group (NCISG) and ex
   - Annual
 - Maturity level:
   - High
+- Software used: 
+  - Electronic collection system (OMNITRACKER) 
 
 ## References
+1. [Article](https://www.ncia.nato.int/about-us/newsroom/nato-agency-supports-exercise-steadfast-cobalt-2019-.html)
+2. [Press Release](https://english.mapn.ro/cpresa/5093_Communications-and-Information-System-NATO-Exercise-STEADFAST-COBALT-2019)
+3. [OMNITRACKER](https://www.omnitracker.com/en/)

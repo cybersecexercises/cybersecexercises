@@ -6,9 +6,11 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Description](#description)
-- [Exercise features](#exercise-features)
-- [References](#references)
+- [Cyber Star](#cyber-star)
+      - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Exercise features](#exercise-features)
+  - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -31,3 +33,4 @@ Exercise Cyber Star is a Singaporean nation-wide cybersecurity exercise which in
 - Maturity level
 
 ## References
+1. [News Article](https://www.straitstimes.com/tech/exercise-cyber-star-adds-complex-cyber-attack-scenarios-to-strengthen-singapores-readiness)

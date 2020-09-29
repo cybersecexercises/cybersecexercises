@@ -46,5 +46,9 @@ Locked Shields exercise is organized by the NATO CCDCOE. It has been conducted a
   - Annual
 - Maturity level:
   - High
+- Software used: 
+  - Cyber Range 
 
 ## References
+
+1. [CCDCOE](https://ccdcoe.org/exercises/locked-shields/)

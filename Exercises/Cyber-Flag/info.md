@@ -43,5 +43,10 @@ Cyber Flag was a weeklong tactical cybersecurity exercise conducted at the Joint
   - Annual
 - Maturity level:
   - High
+- Software used:
+  - Persistent Cyber Training Environment
 
 ## References
+1. [Defense.gov Article](https://www.defense.gov/Explore/News/Article/Article/1896846/cyber-flag-exercise-focuses-on-partnerships/)
+2. [Airforce Mag Article](https://www.airforcemag.com/five-eyes-nations-finish-large-scale-cyber-exercise/)
+3. [Persistent Cyber Training Environment](] https://www.peostri.army.mil/persistent-cyber-training-environment-pcte)

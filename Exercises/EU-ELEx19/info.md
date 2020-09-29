@@ -47,3 +47,6 @@ The European Union member states, European Commission and the EU Agency for Cybe
   - Low
 
 ## References
+1. [AEGIS Article](http://aegis-project.org/eu-member-states-cybersecurity-exercise-eu-elections-2019/)
+2. [EU Article](https://ec.europa.eu/commission/presscorner/detail/en/IP_19_2011)
+3. [ENISA News Article](https://www.enisa.europa.eu/news/enisa-news/eu-member-states-test-their-cybersecurity-preparedness-for-fair-and-free-2019-eu-elections)

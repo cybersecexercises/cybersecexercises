@@ -46,3 +46,4 @@ Mile High Dice is an annual exercise organized by the Colorado Federal Executive
   - Medium
 
 ## References
+1. [Event information](https://colorado.feb.gov/mile-high-dice-11-14-2019/)

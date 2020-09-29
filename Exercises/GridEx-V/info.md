@@ -58,5 +58,5 @@ The most notable and well-documented exercise held in 2019 is the GridEx V exerc
 
 ## References
 
-1. Gridex V After Action Report
-2. SimulationDeck
+1. [Gridex V After Action Report](Exercises/GridEx-V/gridexV-report.pdf)
+2. [SimulationDeck](https://nusura.com/simulationdeck/)

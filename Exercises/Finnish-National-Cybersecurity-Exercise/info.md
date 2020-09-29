@@ -44,5 +44,10 @@ In 2019, The Cyber Security Research, Development and Training Centre, JYVSECTEC
   - Annual  
 - Maturity level:
   - Medium
+- Software used:
+  - The Realistic Global Cyber Environment (RGCE)
 
 ## References
+1. [JYVSECTEC Article](https://jyvsectec.fi/2019/06/national-cyber-security-exercise-2019-is-over-or-is-it/)
+2. [JYVSECTEC Article 2](https://jyvsectec.fi/2019/05/the-state-administration-of-finland-will-organize-a-national-cyber-security-exercise/)
+3. [The Realistic Global Cyber Environment (RGCE)](https://jyvsectec.fi/cyber-range/overview/)

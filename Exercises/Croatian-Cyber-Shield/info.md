@@ -45,3 +45,4 @@ Cyber Shield was a table-top simulation in which the participants discussed, ana
   - Medium
 
 ## References
+1. [Official Page Article](https://hrvatski-vojnik.hr/cyber-shield-2019/)
